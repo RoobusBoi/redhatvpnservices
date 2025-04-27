@@ -67,7 +67,7 @@ Here’s how you can find them:
 
 ## 📣 Need Help?
 
-Feel free to open an Issue in this repository if you encounter any problems!
+Feel free to open an Issue on https://github.com/RoobusBoi/redhatvpnservices/issues if you encounter any problems!
 
 ---
 
