@@ -1,4 +1,4 @@
-# How to Save Progress in Flash Games (Using Adobe Flash Player Projector)
+# How to Save Progress in Flash Games (Using Adobe Flash Player SA (StandAlone))
 
 This guide explains how you can properly save your progress when playing Flash games locally (.swf files) using the standalone Adobe Flash Player.
 
